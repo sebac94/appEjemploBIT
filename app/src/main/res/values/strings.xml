@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AplicacionCurso2021</string>
+    <string name="hello_world">Hello World</string>
+    <string name="enter_message">Ingrese valor</string>
+    <string name="ok_button">Ok</string>
+    <string name="add_fruta">Agregar una fruta</string>
+    <string name="nombre_fruta">Ingresee fruta</string>
+    <string name="guardar">Guardar</string>
+    <string name="no_guardado">No se guardo</string>
+
+</resources>
