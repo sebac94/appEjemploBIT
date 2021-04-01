@@ -12,7 +12,7 @@ import com.example.aplicacioncurso2021.entities.Fruta;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-@Database(entities = {Fruta.class}, version=4)
+@Database(entities = {Fruta.class}, version=7)
 public abstract class AppDatabase extends RoomDatabase {
     public abstract FrutaDao frutaDao();
 

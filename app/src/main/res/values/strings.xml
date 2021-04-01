@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">AplicacionCurso2021</string>
+    <string name="app_subtitle">Testing seba</string>
     <string name="hello_world">Hello World</string>
     <string name="enter_message">Ingrese valor</string>
     <string name="ok_button">Ok</string>
@@ -7,5 +8,15 @@
     <string name="nombre_fruta">Ingresee fruta</string>
     <string name="guardar">Guardar</string>
     <string name="no_guardado">No se guardo</string>
-
+    <string name="descripcion_fruta">Ingrese dedscripcion</string>
+    <string name="borrado">Se ha borrado elemento</string>
+    <string name="no_actualizado">No se pudo actualizar</string>
+    <string name="volver">Volver</string>
+    <string name="about">Acerca de</string>
+    <string name="navigation_drawer_close">Cerrar</string>
+    <string name="navigation_drawer_open">Ver</string>
+    <string name="menu_perfil">Perfil</string>
+    <string name="menu_otros">Otros</string>
+    <string name="menu_favoritos">Favortios</string>
+    <string name="menu_send">Enviar</string>
 </resources>

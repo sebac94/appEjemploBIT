@@ -28,4 +28,12 @@ public class FrutaViewModel extends AndroidViewModel {
         frutaRepository.insert(fruta);
     }
 
+    public void update(Fruta fruta){
+        frutaRepository.update(fruta);
+    }
+
+    public void delete(Fruta fruta){
+        frutaRepository.delete(fruta);
+    }
+
 }

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452531190101",
+    "project_id": "aplicacioncurso2021",
+    "storage_bucket": "aplicacioncurso2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452531190101:android:f3e03fdeab5d19e94717dc",
+        "android_client_info": {
+          "package_name": "com.example.aplicacioncurso2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452531190101-k6jkq92pvcpm8h03dlvukg9vljo7k75r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGM90W64tPduqYGoVuuPR-5du5BZc5k0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452531190101-k6jkq92pvcpm8h03dlvukg9vljo7k75r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
